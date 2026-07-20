@@ -11,3 +11,5 @@ The site is primarily used to host small browser-based tools.
 ## Site structure
 
 Each tool is stored in its own folder under `/tools/`.
+
+Site deployment retry — July 20, 2026
